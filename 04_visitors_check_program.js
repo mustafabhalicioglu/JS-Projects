@@ -1,4 +1,4 @@
-var visitors = ["Mustafa", "İlknur", "Dilara", "Levent"]
+var visitors = ["Mustafa", "Brain", "Levent", "Jane"]
 var yourName = prompt("what is your name?");
 if(visitors.includes(yourName)) { 
     alert("Welcome to the party") 
